@@ -111,7 +111,6 @@ Follow the youtube Video to establish the Oracle Connexion with Qt.
    git clone https://github.com/benammarfares/Arduino-Solar_Panel.git
    ```
 2. Open Arduino IDE & connect to COM3 (based on your com).
- * [Oracle 11](https://drive.google.com/file/d/12Vful6RhPNxS-lWOpdJFL1ozW5DmJmEC/view?usp=drive_link)<br>
  
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
